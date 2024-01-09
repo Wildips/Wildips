@@ -4,7 +4,7 @@
 
 #### <a target="_blank" href="https://github.com/Wildips/demoqa_diplome">Фреймворк для автоматизации тестирования web (UI) на примере ресурса demoqa.com</a>
 #### <a target="_blank" href="https://github.com/Wildips/qa_g-rest-api">Фреймворк для автоматизации тестирования API на примере ресурса reqres.in и его API reqres.in/api</a>
-#### <a target="_blank" href="https://github.com/Wildips/125_mobile_tests">Фреймворк для автоматизации тестирования мобильных приложений на примере приложения wikipedia</a>
+#### <a target="_blank" href="https://github.com/Wildips/125_mobile_tests">Фреймворк для автоматизации тестирования мобильных приложений на примере приложения wikipedia для android</a>
 
 
 
