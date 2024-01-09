@@ -1,4 +1,13 @@
-### Hi there 👋
+## Привет, мир! 👋
+Меня зовут Виталий. Я AQA инженер. <br/>
+Данный проект является обобщением информации проработанной в рамках курса <a target="_blank" href="https://qa.guru/python">qa.guru/python</a><br/> 
+и состоит из подразделов:
+
+#### <a target="_blank" href="https://github.com/Wildips/demoqa_diplome">Фреймворк для автоматизации тестирования web (UI) на примере ресурса demoqa.com</a>
+#### <a target="_blank" href="https://github.com/Wildips/qa_g-rest-api">Фреймворк для автоматизации тестирования API на примере ресурса reqres.in и его API reqres.in/api</a>
+#### <a target="_blank" href="https://github.com/Wildips/125_mobile_tests">Фреймворк для автоматизации тестирования мобильных приложений на примере приложения wikipedia</a>
+
+
 
 <!--
 **Wildips/Wildips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
