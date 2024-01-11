@@ -7,7 +7,7 @@
 #### <a target="_blank" href="https://github.com/Wildips/qa_g-rest-api-for-ui">Фреймворк для автоматизации e2e тестирования на примере ресурса demowebshop.tricentis.com</a>
 #### <a target="_blank" href="https://github.com/Wildips/125_mobile_tests">Фреймворк для автоматизации тестирования мобильных приложений на примере приложения wikipedia для android</a>
 
-
+:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 
 <!--
 **Wildips/Wildips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
