@@ -7,6 +7,25 @@
 #### <a target="_blank" href="https://github.com/Wildips/qa_g-rest-api-for-ui">Фреймворк для автоматизации e2e тестирования на примере ресурса demowebshop.tricentis.com</a>
 #### <a target="_blank" href="https://github.com/Wildips/125_mobile_tests">Фреймворк для автоматизации тестирования мобильных приложений на примере приложения wikipedia для android</a>
 
+## Инструменты использованные в ходе выполнения работ
+<p  align="center">
+  <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
+  <code><img width="5%" title="Python" src="images/python-original.svg"></code>
+  <code><img width="5%" title="Pytest" src="images/pytest-original.svg"></code>
+  <code><img width="5%" title="Selene" src="images/selene.png"></code>
+  <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
+  <code><img width="5%" title="Requests" src="images/Requests_Python_Logo.png"></code>
+  <code><img width="5%" title="GitHub" src="images/github-original.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/jenkins-original.svg"></code>
+  <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
+  <code><img width="5%" title="Allure Report" src="images/Allure_Report.png"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/AllureTestOps.png"></code>
+  <code><img width="5%" title="Appium" src="images/appium.png"></code>
+  <code><img width="5%" title="Browserstack" src="images/browserstack.png"></code>
+  <code><img width="5%" title="Jira" src="images/jira-original.svg"></code>
+</p>
+
+
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 
 <!--
